@@ -1,0 +1,10 @@
+D:\map-editor-unity\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\map-editor-unity\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\map-editor-unity\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\map-editor-unity\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\map-editor-unity\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\map-editor-unity\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\map-editor-unity\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\map-editor-unity\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\map-editor-unity\obj\Debug\Assembly-CSharp.dll
+D:\map-editor-unity\obj\Debug\Assembly-CSharp.pdb
