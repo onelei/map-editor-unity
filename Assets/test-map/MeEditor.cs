@@ -33,15 +33,19 @@ public class MeEditor : Editor
         // 画每一行;
         for (int i = 0; i != TotalX; ++i)
         {
+            // 直立的;
+           // Vector3 pos1 = new Vector3(0, i * mBiLi, 0);
+           // Vector3 pos2 = new Vector3(TotalX * mBiLi, i * mBiLi, 0);
             Vector3 pos1 = new Vector3(0,0 , i * mBiLi);
             Vector3 pos2 = new Vector3(TotalX * mBiLi, 0, i * mBiLi);
             Handles.Label(pos1, "" + i);
             Handles.DrawLine(pos1, pos2);
         }
-
         // 画每一列;
         for (int i = 0; i != TotalY; ++i)
         {
+            //Vector3 pos1 = new Vector3(i * mBiLi, 0, 0);
+            //Vector3 pos2 = new Vector3(i * mBiLi, TotalX * mBiLi, 0);
             Vector3 pos1 = new Vector3(i * mBiLi, 0, 0);
             Vector3 pos2 = new Vector3(i * mBiLi, 0, TotalX * mBiLi);
             Handles.Label(pos1, "" + i);
